@@ -1,0 +1,189 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "FIAT EGEA",
+      "price": 19.75,
+      "category": "Binek",
+      "img": "./images/item-1.jpeg",
+      "desc": "1.4 Fire Bz 95 Hp Easy Benzin Eu6 D"
+    },
+    {
+      "id": 2,
+      "title": "FIAT EGEA",
+      "category": "Binek",
+      "price": 28.135,
+      "img": "./images/item-2.jpeg",
+      "desc": "1.6 Mjet 130 Hp Easy Dct Dizel Eu6 D"
+    },
+    {
+      "id": 3,
+      "title": "FIAT EGEA",
+      "category": "Binek",
+      "price": 23.744,
+      "img": "./images/item-3.jpeg",
+      "desc": "1.3 Mjet II Ds 95 Hp Easy Dizel Eu6 D"
+    },
+    {
+      "id": 4,
+      "title": "FIAT ULYSSE",
+      "category": "Ticari",
+      "price": 44.899,
+      "img": "./images/item-4.jpeg",
+      "desc": "2.0 Mjet 177 Hp AT-8 Lounge Maxi Pano Pak Dizel Eu6 D"
+    },
+    {
+      "id": 5,
+      "title": "RENAULT MEGANE",
+      "category": "Binek",
+      "price": 32.39,
+      "img": "./images/item-5.jpeg",
+      "desc": "Sedan Icon 1.3 Tce 140 Bg Edc"
+    },
+
+    {
+      "id": 6,
+      "title": "HYUNDAI BAYON",
+      "category": "Binek",
+      "price": 25.666,
+      "img": "./images/item-6.jpeg",
+      "desc": "1.4 Mpı 6 At Jump Benzin Eu6 D"
+    },
+    {
+      "id": 7,
+      "title": "FIAT DOBLO COMBİ",
+      "category": "Ticari",
+      "price": 29.656,
+      "img": "./images/item-7.jpeg",
+      "desc": "Urban 1.5 130 Hp Blue Hdi E 6.4 Dizel Eu6 D"
+    },
+    {
+      "id": 8,
+      "title": "TOYOTA COROLLA",
+      "category": "İkinci El",
+      "price": 35.337,
+      "img": "./images/item-8.jpeg",
+      "desc": "Hybird Dream E-Cvt Benzin Eu6 D Hibrid"
+    },
+    {
+      "id": 9,
+      "title": "RENAULT CLIO",
+      "category": "Binek",
+      "price": 23.0,
+      "img": "./images/item-9.jpeg",
+      "desc": "HB - Evolation 1.0 Tce X-Tronic 90 Bg Benzin Eu6 D"
+    },
+    {
+      "id": 10,
+      "title": "BMW 3 SERISI",
+      "category": "İkinci El",
+      "price": 78.8,
+      "img": "./images/item-10.jpeg",
+      "desc": "1.6 320 I Sport Line Benzin Eu6 D"
+    },
+    {
+      "id": 11,
+      "title": "FIAT DOBLO COMBİ",
+      "category": "Ticari",
+      "price": 29.131,
+      "img": "./images/item-11.jpeg",
+      "desc": "Urban 1.5 130 Hp BLue Hdi E 6.4 At Dizel Eu6 D"
+    },
+    {
+      "id": 12,
+      "title": "RENAULT MEGANE",
+      "category": "Binek",
+      "price": 35.597,
+      "img": "./images/item-12.jpeg",
+      "desc": "Sedan Touch 1.3 Tce 140 Bg Edc"
+    },
+    {
+      "id": 13,
+      "title": "FIAT EGEA",
+      "category": "Binek",
+      "price": 22.527,
+      "img": "./images/item-13.jpeg",
+      "desc": "1.4 Fire Bz 95 Hp Urban Benzin Eu6 D"
+    },
+    {
+      "id": 14,
+      "title": "FIAT FİORİNO",
+      "category": "Ticari",
+      "price": 18.327,
+      "img": "./images/item-14.jpeg",
+      "desc": "1.3 Multijet 95 Hp Cargo Plus Dizel EU6 D"
+    },
+    {
+      "id": 15,
+      "title": "FIAT DOBLO COMBİ",
+      "category": "Ticari",
+      "price": 30.657,
+      "img": "./images/item-15.jpeg",
+      "desc": "Esay 1.5 100 Hp Blue Hdi E6.4 Dizel Eu6 D"
+    },
+    {
+      "id": 16,
+      "title": "FORD MONDEO",
+      "category": "İkinci El",
+      "price": 34.9,
+      "img": "./images/item-16.jpeg",
+      "desc": "1.5L Eb 165 Ps 4K Otomatik Yeni Titanium"
+    },
+    {
+      "id": 17,
+      "title": "FIAT EGEA",
+      "category": "Binek",
+      "price": 28.41,
+      "img": "./images/item-17.jpeg",
+      "desc": "1.6 Mjet 130 Hp Lounge Dct Dizel Eu6 D"
+    },
+    {
+      "id": 18,
+      "title": "FORD MONDEO",
+      "category": "Binek",
+      "price": 33.9,
+      "img": "./images/item-18.jpeg",
+      "desc": "1.5L Eb 165 Ps 4K Otomatik Yeni Titanium"
+    },
+    {
+      "id": 19,
+      "title": "FORD TOURNEO COURIER",
+      "category": "Ticari",
+      "price": 21.5,
+      "img": "./images/item-19.jpeg",
+      "desc": "1.0L Eco Boost 100 Ps Titanium Benzin Eu6.2"
+    },
+    {
+      "id": 20,
+      "title": "FORD TOURNEO COURIER",
+      "category": "Ticari",
+      "price": 21.75,
+      "img": "./images/item-20.jpeg",
+      "desc": "1.0L Eco Boost 100 Ps Titanium Benzin Eu6.2"
+    },
+    {
+      "id": 21,
+      "title": "MERCEDES E-SERISI",
+      "category": "İkinci El",
+      "price": 75.508,
+      "img": "./images/item-21.jpeg",
+      "desc": "1.6 E 200 D Exclusive Otomatik"
+    },
+    {
+      "id": 22,
+      "title": "MERCEDES E-SERISI",
+      "category": "İkinci El",
+      "price": 84.057,
+      "img": "./images/item-22.jpeg",
+      "desc": "1.6 E 200 D Exclusive Otomatik"
+    },
+    {
+      "id": 23,
+      "title": "VOLVO XC40",
+      "category": "İkinci El",
+      "price": 57.0,
+      "img": "./images/item-23.jpeg",
+      "desc": "1.5 T2 129 Hp Plus Bright 8 At Benzin Eu6 D"
+    }
+  ]
+}
